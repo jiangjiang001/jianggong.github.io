@@ -1,19 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Myself"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Jiang Gong is a Professor at the University of Electronic Science and Technology of China (UESTC)..
+Jiang Gong is a Professor at the University of Electronic Science and Technology of China (UESTC).
 
 He received a B.S. degree from Jilin University, Changchun, China, in 2015, and the M.S. and Ph.D. degrees from the Delft University of Technology, Delft, the Netherlands, in 2017 and 2023, respectively. From May 2022 to December 2023, he was a senior analog/mixed-signal circuit designer at SiTime, the Netherlands, focusing on phase-locked loop design for precision timing applications. From January 2024 to November 2024, he was a Post-Doctoral Researcher at ETH Zurich, Zurich, Switzerland.
 
 He is a reviewer for the IEEE JOURNAL OF SOLID-STATE CIRCUITS (JSSC), the IEEE Transactions on Microwave Theory and Techniques (TMTT), the IEEE Transactions on Circuits and Systems I (TCAS-I), and the IEEE Solid-State Circuits Letters (SSCL). He was a recipient of the IEEE Solid-State Circuits Society (SSCS) Predoctoral Achievement Award for 2021–2022 and the Chinese Government Award for Outstanding Self-Financed (non-government sponsored) Students Abroad, and a co-recipient of Best Student Paper Award at IMS-2023 (second place).
 
-His research interest is in analog and mixed-signal integrated circuit design, with a special focus on high-performance clocking circuits. He has published over 8 ISSCC/JSSC papers on frequency synthesizer design, with 5 ISSCC/JSSC papers as the (cou)first author.
+His research interest is in analog and mixed-signal integrated circuit design, with a special focus on high-performance clocking circuits. He has published over 8 ISSCC/JSSC papers on frequency synthesizer design, with 5 ISSCC/JSSC papers as the (co-)first author.
 
 A data-driven personal website
 ======
