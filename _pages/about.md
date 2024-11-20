@@ -19,9 +19,9 @@ My research focuses on the analysis and design of the high-performance clock gen
 * Clock generator architecture design
 * Low-jitter PLL design 
 * Ultra-low phase noise and wide-tuning-range VCO design 
-* Low-nose reference oscillator design based on BAW/SAW/MEMS 
-* Ultra-low noise temperature sensor 
-* Novel temperature compensation techniques 
+* Low-nose reference oscillator design based on novel BAW/SAW/MEMS resonators 
+* Ultra-low noise temperature sensor design
+* Novel frequency inaccuracy compensation techniques 
 
 **I am always looking for self-motivated undergraduate and graduate students with a background in microelectronics to join my group. Each student is encouraged to lead at least one chip design in the advanced CMOS process.**
 
