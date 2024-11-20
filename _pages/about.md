@@ -17,11 +17,9 @@ Research Interests
 ======
 My research focuses on the analysis and design of the high-performance clock generation system and its building blocks, specifically: 
 
-* Clock generator architecture design
-  =
+** Clock generator architecture design**
 * Low-jitter PLL design
-  =
-* Ultra-low phase noise and wide-tuning-range VCO design
+  * Ultra-low phase noise and wide-tuning-range VCO design
   =
 * Low-nose reference oscillator design based on BAW/SAW/MEMS
   =
