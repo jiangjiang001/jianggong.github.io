@@ -23,7 +23,7 @@ My research focuses on the analysis and design of the high-performance clock gen
 * Ultra-low noise temperature sensor 
 * Novel temperature compensation techniques 
 
-**I am always looking for motivated undergraduate and graduate students with a background in microelectronics to join my group. Each student is encouraged to lead at least one chip design in the advanced CMOS process.**
+**I am always looking for self-motivated undergraduate and graduate students with a background in microelectronics to join my group. Each student is encouraged to lead at least one chip design in the advanced CMOS process.**
 
 News 
 ======
