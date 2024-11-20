@@ -22,9 +22,9 @@ repository               : "https://jiangjiang001.github.io/jianggong.github.io/
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jiang Gong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Full professor @ UESTC, high-performance clock generator design"
   location         : "Shenzhen, Guangdong, China"
   employer         : "UESTC, Shenzhen Institute for Advanced Study"
   uri              : # URL
