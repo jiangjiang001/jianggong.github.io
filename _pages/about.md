@@ -15,7 +15,7 @@ I am a reviewer for the IEEE JOURNAL OF SOLID-STATE CIRCUITS (JSSC), the IEEE Tr
 
 Research Interests
 ======
-My research focuses on the analysis and design of the high-performance clock generation system and its building blocks, specifically: 
+My research focuses on the analysis and design of the high-performance clock generation system (with an output frequency ranging from kHz to sub-THz) and its building blocks, specifically: 
 * Clock generator architecture design
 * Low-jitter PLL design 
 * Ultra-low phase noise and wide-tuning-range VCO design 
