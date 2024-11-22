@@ -26,3 +26,4 @@ My research focuses on the analysis and design of the high-performance clock gen
 News 
 ======
 
+* 2024/11: I am looking for Post-Doctoral Researchers, assistant professors, and associate professors to join the group. The requirements and salary can be found on this website:  https://sias.uestc.edu.cn/info/1226/5176.htm.
