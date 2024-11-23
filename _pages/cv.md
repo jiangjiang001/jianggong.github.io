@@ -25,3 +25,11 @@ Work experience
 
 * 2016/08-2017/10: Master thesis intern
   * IMEC Holst Center, the Netherlands
+
+Awards
+======
+* IEEE Solid-State Circuits Society (SSCS) Predoctoral Achievement Award, 2021–2022
+  
+*  Chinese Government Award for Outstanding Self-Financed (non-government sponsored) Students Abroad, 2022
+
+* Co-recipient of the Best Student Paper Award at IEEE IMS (second place), 2023
