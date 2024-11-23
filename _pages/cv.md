@@ -44,7 +44,7 @@ Co-supervised master students
  
 Publications
 ======
-1, *Can Livanelioglu, *Long He, ***Jiang Gong**, Sina Arjmandpour, Gabriele Atzeni, Taekwang Jang, "A 4.6 GHz 63.3 fsrms PLL-XO Co-Design Using a Self-Aligned Pulse Injection Driver Achieving -255.2 dB FoMJ Including the XO Power and Noise," accepted to IEEE International Solid-State Circuits Conference (ISSCC), 2025, to appear(*Equally contributed authors).
+1, *Can Livanelioglu, *Long He, ***Jiang Gong**, Sina Arjmandpour, Gabriele Atzeni, Taekwang Jang, "A 4.6 GHz 63.3 fsrms PLL-XO Co-Design Using a Self-Aligned Pulse Injection Driver Achieving -255.2 dB FoMJ Including the XO Power and Noise," accepted to IEEE International Solid-State Circuits Conference (ISSCC), 2025, to appear (*Equally contributed authors).
 
 2, **Jiang Gong**, Bishnu Patra, Luc Enthoven, Job van Staveren, Fabio Sebastiano and Masoud Babaie, “A 0.049mm2 7.1-to-16.8GHz Dual-Core Triple-Mode VCO Achieving 200dB FOMA in 22nm FinFET, ” International Solid-State Circuits Conference (ISSCC) Feb. 2022.
 
