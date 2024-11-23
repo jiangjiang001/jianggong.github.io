@@ -18,7 +18,7 @@ My research focuses on the analysis and design of the high-performance clock gen
 * Low-jitter PLL design 
 * Ultra-low phase noise and wide-tuning-range VCO design 
 * Low-noise reference oscillator design based on novel BAW/SAW/MEMS resonators 
-* Ultra-low noise temperature sensor design
+* Ultra-low-noise temperature sensor design
 * Novel frequency inaccuracy compensation techniques 
 
 **I am always looking for self-motivated undergraduate and graduate students with a background in microelectronics to join my group. Each student is encouraged to lead at least one chip design in the advanced CMOS process.**
@@ -26,4 +26,4 @@ My research focuses on the analysis and design of the high-performance clock gen
 News 
 ======
 
-* 2024/11: I am looking for Post-Doctoral Researchers, assistant professors, and associate professors to join the group. The detailed information can be found on this website:  https://sias.uestc.edu.cn/info/1226/5176.htm.
+* 2024/11: I am looking for Post-Doctoral Researchers, assistant professors, and associate professors to join the group. The detailed information can be found on this website:  https://sias.uestc.edu.cn/info/1226/4970.htm
