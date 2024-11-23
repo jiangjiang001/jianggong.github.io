@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my research group at the University of Electronic Science and Technology of China (UESTC), Shenzhen Institute for Advanced Study.
 
-I received a B.S. degree from Jilin University, Changchun, China, in 2015, and the M.S. and Ph.D. degrees from the Delft University of Technology, Delft, the Netherlands, in 2017 and 2023, respectively. From May 2022 to December 2023, I was a senior analog/mixed-signal circuit designer at SiTime, the Netherlands, focusing on phase-locked loop design for precision timing applications. From January 2024 to November 2024, I was a Post-Doctoral Researcher at ETH Zurich, Zurich, Switzerland. I was a recipient of the IEEE Solid-State Circuits Society (SSCS) Predoctoral Achievement Award for 2021–2022 and the Chinese Government Award for Outstanding Self-Financed (non-government sponsored) Students Abroad, and a co-recipient of the Best Student Paper Award at IMS-2023 (second place).
+I received a B.S. degree from Jilin University, Changchun, China, in 2015, and the M.S. and Ph.D. degrees from the Delft University of Technology, Delft, the Netherlands, in 2017 and 2023, respectively. From May 2022 to January 2024, I was a senior analog/mixed-signal circuit designer at SiTime, the Netherlands, focusing on phase-locked loop design for precision timing applications. From January 2024 to November 2024, I was a Post-Doctoral Researcher at ETH Zurich, Zurich, Switzerland. I was a recipient of the IEEE Solid-State Circuits Society (SSCS) Predoctoral Achievement Award for 2021–2022 and the Chinese Government Award for Outstanding Self-Financed (non-government sponsored) Students Abroad, and a co-recipient of the Best Student Paper Award at IMS-2023 (second place).
 
 Research Interests
 ======
