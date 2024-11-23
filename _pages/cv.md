@@ -95,3 +95,5 @@ Publications
 
 14, L de Jong, JI Bas, Jiang Gong, F Sebastiano, M Babaie, “A 10 Gb/s 275 fsec Jitter Cryo CMOS Charge-Sampling CDR for 
     Quantum Computing Application,” IMS, 2023.
+
+15, Can Livanelioglu, Long He, Jiang Gong, Sina Arjmandpour, Gabriele Atzeni, Taekwang Jang, "A 4.6 GHz 63.3 fsrms PLL-XO Co-Design Using a Self-Aligned Pulse Injection Driver Achieving -255.2 dB FoMJ Including the XO Power and Noise," accepted to IEEE International Solid-State Circuits Conference (ISSCC), 2025, to appear.
